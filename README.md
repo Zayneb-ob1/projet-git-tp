@@ -10,3 +10,4 @@ Ce projet est un exercice pratique sur Git .
 ## Fonctionnalités
 - Module de calcul
 >>>>>>> feature-doc
+>>>>>>> test
